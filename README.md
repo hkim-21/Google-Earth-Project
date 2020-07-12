@@ -1,6 +1,5 @@
 # Google-Earth-Project
 |Country Name        |Urban_pop| Rural_pop| Total_pop |Common_vector  |
-|--------------------|---------|----------|-----------|---------------|
 |Algeria             |31,236   |11,433    |42,679     |               |          
 |Bahrain             |1,464    |174       |1,638      |               |                       
 |Egypt               |43,229   |57,939    |101,169    |               |          
