@@ -1,18 +1,18 @@
 Countryname, urbanpop, ruralpop, totalpop
-Algeria             ,31,236   ,11,433    ,42,679                              
-Bahrain             ,1,464    ,174       ,1,638                                          
-Egypt               ,43,229   57,939    ,101,169                            
-Iraq                ,28,563   ,11,850    ,40,412                         
-Jordan              ,9,184    ,886       ,10,070                    
-Kuwait              ,4,249    ,0         ,4,249                   
-Lebanon             ,5,384    ,682       ,6,066                     
-Libya               ,5,282    ,1,288     ,6,570                     
-Morocco             ,23,078   ,13,557    ,36,635                                
-Oman                ,4,274    ,728       ,5,002                     
-Qatar               ,2,722    ,22        ,2,744                    
-Saudi Arabia        ,28,700   ,5,440     ,34,141                    
-Somalia             ,7,123    ,8,513     ,15,636                                               
-Syrian Arab Republic,10,141   ,8,358     ,18,499                    
-Tunisia             ,8,160    ,3,623     ,11,783                    
-United Arab Emirates,8,403    ,1,279     ,9,682                     
-Yemen               ,11,025   ,18,555    ,29,850
+Algeria, 31236, 11433, 42679                              
+Bahrain, 1464, 174, 1638                                          
+Egypt, 43229, 57939, 101169                            
+Iraq, 28563, 11850, 40412                         
+Jordan, 9184, 886, 10070                    
+Kuwait, 4249, 0, 4249                   
+Lebanon, 5384, 682, 6066                     
+Libya, 5282, 1288, 6570                     
+Morocco, 23078, 13557, 36635                                
+Oman, 4274, 728, 5002                     
+Qatar, 2722, 22, 2744                    
+Saudi Arabia, 28700, 5440, 34141                    
+Somalia, 7123, 8513, 15636                                               
+Syrian Arab Republic, 10141, 8358, 18499                    
+Tunisia, 8160, 3623, 11783                    
+United Arab Emirates, 8403, 1279, 9682                     
+Yemen, 11025, 18555, 29850
