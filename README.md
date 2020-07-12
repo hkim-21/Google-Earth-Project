@@ -1,5 +1,6 @@
 # Google-Earth-Project
-Country Name,Urban_population,Rural_population,Urban_percent,Rural_percent        
+|Country Name     |Urban_population| Rural_population| Urban_percent| Rural_percent|
+|-----------------|----------------|------------------|-------------|--------------|
 Algeria,31,236
 Bahrain,30,426                         
 Egypt,43,229
