@@ -1,5 +1,4 @@
 # Google-Earth-Project
-Google-Earth-Project.to_csv("path_to_local_git_folder/Google-Earth-Project.csv")
 
 |Country Name        |Urban_pop| Rural_pop| Total_pop |
 |--------------------|---------|----------|-----------|
