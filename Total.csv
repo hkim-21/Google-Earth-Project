@@ -1,0 +1,120 @@
+Country_name, urban_pop, rural_pop, total_pop
+Algeria, 31236, 11433, 42679                              
+Bahrain, 1464, 174, 1638                                          
+Egypt, 43229, 57939, 101169                            
+Iraq, 28563, 11850, 40412                         
+Jordan, 9184, 886, 10070                    
+Kuwait, 4249, 0, 4249                   
+Lebanon, 5384, 682, 6066                     
+Libya, 5282, 1288, 6570                     
+Morocco, 23078, 13557, 36635                                
+Oman, 4274, 728, 5002                     
+Qatar, 2722, 22, 2744                    
+Saudi Arabia, 28700, 5440, 34141                    
+Somalia, 7123, 8513, 15636                                               
+Syrian Arab Republic, 10141, 8358, 18499                    
+Tunisia, 8160, 3623, 11783                    
+United Arab Emirates, 8403, 1279, 9682                     
+Yemen, 11025, 18555, 29850
+Afghanistan         ,9583    ,27626    ,37209                     
+Bangladesh          ,62866   ,105200   ,168066                   
+Bhutan              ,344      ,482       ,826                       
+India               ,471828  ,896909   ,1368738                
+Islamic Rep. of Iran,62439   ,20381    ,82821                    
+Maldives            ,182      ,270       ,452                       
+Nepal               ,6034    ,23908    ,29942                    
+Pakistan            ,75511   ,129086   ,204596                    
+Sri Lanka           ,3906    ,17112    ,21019                    
+Angola              ,21036   ,10752    ,31788                     
+Benin               ,5646    ,6153     ,11802                     
+Botswana            ,1666    ,708       ,2375                     
+Burkina Faso        ,6092    ,14229    ,20322                    
+Burundi             ,1547    ,10029    ,11576                    
+Cameroon            ,14420   ,10893   ,25313                    
+Central African Rep.,2016    ,2180     ,4826                     
+Chad                ,3681    ,12133    ,15814                    
+Congo               ,3734    ,1808     ,5542                     
+Cote d'Ivoire       ,13082   ,12449    ,25531                    
+Ethiopia            ,23376   ,86759    ,110136                  
+Gabon               ,1893    ,216       ,2109                     
+Gambia              ,1380    ,848       ,2228                     
+Ghana               ,17067   ,13030    ,30097                    
+Guinea              ,4890    ,8508     ,13398                     
+Kenya               ,14363   ,37852    ,52215                    
+Liberia             ,2569    ,2408     ,4978                     
+Madagascar          ,10211   ,16759    ,26970                    
+Malawi              ,3387    ,16332    ,19719                    
+Mauritania          ,2541    ,2121     ,4661                     
+Mozambique          ,11473   ,19936    ,31409                    
+Namibia             ,1349    ,1293     ,2642                     
+Niger               ,3828    ,19349    ,23177                    
+Nigeria             ,102806 ,98156    ,200962                   
+Rwanda              ,2215   ,10579    ,12794                    
+Senegal             ,7979    ,8765     ,16744                    
+South Africa        ,38820   ,19245    ,58065                    
+South Sudan         ,2639    ,10624    ,13263                    
+United Rep. of Tanz.,21015  , 39898    ,60914                    
+Togo                ,3459   ,4728     ,8186                     
+Uganda              ,11136   ,34576    ,45712                    
+Zambia              ,7993    ,10144     ,18137                     
+Zimbabwe            ,5572    ,11726    ,17297 
+Brunei Darussalam, 342,97,439                       
+Cambodia,3924,12559 ,16483                    
+China  ,856409  ,563653   ,1420062                 
+Fiji                ,521      ,397       ,919                       
+Indonesia           ,150900  ,118636   ,269536                   
+Kiribati            ,66       ,54        ,120                       
+Lao People Dem. Rep.,2518    ,4546     ,7064                     
+Malaysia            ,24862   ,7592     ,32454                   
+Marshall Islands    ,41       ,12        ,53                        
+Mongolia            ,2170    ,996       ,3166                     
+Myanmar             ,16764   ,37573    ,54336                                             
+Papua New Guinea    ,1138    ,7449     ,8587                     
+Philippines         ,50971   ,57135    ,108106                                             
+Singapore           ,5868    ,0         ,5868                                               
+Thailand            ,35133   ,34173    ,69306                    
+Timor-Leste         ,419      ,934       ,1352                     
+Tonga               ,25       ,85        ,110                       
+Vietnam             ,35687   ,61742    ,97429 
+Albania             ,1799    ,1139     ,2938                     
+Armenia             ,1857    ,1080     ,2937                      
+Azerbaijan          ,5611    ,4403     ,10015                    
+Belarus             ,7457    ,1977     ,9434                     
+Bosnia and Herze.   ,1703    ,1799     ,3502                     
+Gerogia             ,2305    ,1599     ,3904                     
+Kazakhstan          ,10698   ,7895     ,18593                    
+Kyrgyzstan          ,2275    ,3943     ,6219                    
+Rep. of Moldova     ,1722    ,2308     ,4030                     
+Montenegro          ,423      ,207       ,629                      
+Serbia              ,4913    ,3820     ,8733                    
+Tajikistan          ,2538    ,6754     ,9292                     
+Turkey              ,62744   ,20218    ,82962                    
+Turkmenistan        ,3093    ,2850     ,5943                     
+Ukraine             ,30426   ,13369    ,43795                    
+Uzbekistan          ,16546   ,16261    ,32807 
+Antigua and Barbuda ,26       ,79        ,104                       
+Argentina           ,41490   ,3612     ,45102                    
+Bahamas             ,335      ,68        ,403                       
+Barbados            ,89       ,198       ,287                       
+Belize              ,179      ,211       ,390                       
+Brazil              ,184408  ,27985    ,212393                  
+Chile               ,16071   ,2266     ,18337                    
+Colombia            ,40430   ,9420     ,49850                    
+Costa Rica          ,4003    ,996       ,4999                     
+Cuba                ,8861    ,2631     ,11492                    
+Dominica            ,53       ,22        ,75                       
+Dominican Republic  ,8998    ,1998     ,10997                    
+Ecuador             ,10942   ,6159     ,17100                    
+El Salvador         ,4689    ,1757     ,6445                     
+Guatemala           ,9042    ,8536     ,17578                    
+Guyana              ,210      ,577       ,787                       
+Haiti               ,6318    ,4925     ,11243                    
+Honduras            ,5524    ,4045     ,9569                     
+Jamaica             ,1627    ,1279     ,2906                    
+Mexico              ,106450  ,25878    ,132328                   
+Nicaragua           ,3732    ,2619     ,6351                     
+Panama              ,2876    ,1350     ,4226                    
+Paraguay            ,4320    ,2662     ,6982                    
+Peru                ,25721   ,7213     ,32934                    
+Trinodad and Tobago ,732      ,644       ,1375                     
+Uruguay             ,3323    ,159       ,3482      
