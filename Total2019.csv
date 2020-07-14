@@ -1,104 +1,104 @@
 countryname, urbanpop, ruralpop, totalpop, regionname
-Algeria, 31236, 11433, 42679                              
-Bahrain, 1464, 174, 1638                                          
-Egypt, 43229, 57939, 101169                            
-Iraq, 28563, 11850, 40412                         
-Jordan, 9184, 886, 10070                                   
-Lebanon, 5384, 682, 6066                     
-Libya, 5282, 1288, 6570                     
-Morocco, 23078, 13557, 36635                                
-Oman, 4274, 728, 5002                     
-Qatar, 2722, 22, 2744                    
-Saudi Arabia, 28700, 5440, 34141                    
-Somalia, 7123, 8513, 15636                                               
-Syrian Arab Republic, 10141, 8358, 18499                    
-Tunisia, 8160, 3623, 11783                    
-United Arab Emirates, 8403, 1279, 9682                     
-Yemen, 11025, 18555, 29850
-Afghanistan         ,9583    ,27626    ,37209                     
-Bangladesh          ,62866   ,105200   ,168066                                         
-India               ,471828  ,896909   ,1368738                
-Islamic Rep. of Iran,62439   ,20381    ,82821                    
-Nepal               ,6034    ,23908    ,29942                    
-Pakistan            ,75511   ,129086   ,204596                    
-Sri Lanka           ,3906    ,17112    ,21019                    
-Angola              ,21036   ,10752    ,31788                     
-Benin               ,5646    ,6153     ,11802                     
-Botswana            ,1666    ,708       ,2375                     
-Burkina Faso        ,6092    ,14229    ,20322                    
-Burundi             ,1547    ,10029    ,11576                    
-Cameroon            ,14420   ,10893   ,25313                    
-Central African Rep.,2016    ,2180     ,4826                     
-Chad                ,3681    ,12133    ,15814                    
-Congo               ,3734    ,1808     ,5542                     
-Cote d'Ivoire       ,13082   ,12449    ,25531                    
-Ethiopia            ,23376   ,86759    ,110136                  
-Gabon               ,1893    ,216       ,2109                     
-Gambia              ,1380    ,848       ,2228                     
-Ghana               ,17067   ,13030    ,30097                    
-Guinea              ,4890    ,8508     ,13398                     
-Kenya               ,14363   ,37852    ,52215                    
-Liberia             ,2569    ,2408     ,4978                     
-Madagascar          ,10211   ,16759    ,26970                    
-Malawi              ,3387    ,16332    ,19719                    
-Mauritania          ,2541    ,2121     ,4661                     
-Mozambique          ,11473   ,19936    ,31409                    
-Namibia             ,1349    ,1293     ,2642                     
-Niger               ,3828    ,19349    ,23177                    
-Nigeria             ,102806 ,98156    ,200962                   
-Rwanda              ,2215   ,10579    ,12794                    
-Senegal             ,7979    ,8765     ,16744                    
-South Africa        ,38820   ,19245    ,58065                    
-South Sudan         ,2639    ,10624    ,13263                    
-United Rep. of Tanz.,21015  , 39898    ,60914                    
-Togo                ,3459   ,4728     ,8186                     
-Uganda              ,11136   ,34576    ,45712                    
-Zambia              ,7993    ,10144     ,18137                     
-Zimbabwe            ,5572    ,11726    ,17297                        
-Cambodia,3924,12559 ,16483                    
-China  ,856409  ,563653   ,1420062                                       
-Indonesia           ,150900  ,118636   ,269536                                         
-Lao People Dem. Rep.,2518    ,4546     ,7064                     
-Malaysia            ,24862   ,7592     ,32454                                         
-Mongolia            ,2170    ,996       ,3166                     
-Myanmar             ,16764   ,37573    ,54336                                             
-Papua New Guinea    ,1138    ,7449     ,8587                     
-Philippines         ,50971   ,57135    ,108106                                                                                          
-Thailand            ,35133   ,34173    ,69306                    
-Timor-Leste         ,419      ,934       ,1352                                          
-Vietnam             ,35687   ,61742    ,97429 
-Albania             ,1799    ,1139     ,2938                     
-Armenia             ,1857    ,1080     ,2937                      
-Azerbaijan          ,5611    ,4403     ,10015                    
-Belarus             ,7457    ,1977     ,9434                     
-Bosnia and Herze.   ,1703    ,1799     ,3502                     
-Gerogia             ,2305    ,1599     ,3904                     
-Kazakhstan          ,10698   ,7895     ,18593                    
-Kyrgyzstan          ,2275    ,3943     ,6219                    
-Rep. of Moldova     ,1722    ,2308     ,4030                                          
-Serbia              ,4913    ,3820     ,8733                    
-Tajikistan          ,2538    ,6754     ,9292                     
-Turkey              ,62744   ,20218    ,82962                    
-Turkmenistan        ,3093    ,2850     ,5943                     
-Ukraine             ,30426   ,13369    ,43795                    
-Uzbekistan          ,16546   ,16261    ,32807                       
-Argentina           ,41490   ,3612     ,45102                                          
-Brazil              ,184408  ,27985    ,212393                  
-Chile               ,16071   ,2266     ,18337                    
-Colombia            ,40430   ,9420     ,49850                    
-Costa Rica          ,4003    ,996       ,4999                     
-Cuba                ,8861    ,2631     ,11492                                           
-Dominican Republic  ,8998    ,1998     ,10997                    
-Ecuador             ,10942   ,6159     ,17100                    
-El Salvador         ,4689    ,1757     ,6445                     
-Guatemala           ,9042    ,8536     ,17578                                         
-Haiti               ,6318    ,4925     ,11243                    
-Honduras            ,5524    ,4045     ,9569                     
-Jamaica             ,1627    ,1279     ,2906                    
-Mexico              ,106450  ,25878    ,132328                   
-Nicaragua           ,3732    ,2619     ,6351                     
-Panama              ,2876    ,1350     ,4226                    
-Paraguay            ,4320    ,2662     ,6982                    
-Peru                ,25721   ,7213     ,32934                    
-Trinodad and Tobago ,732      ,644       ,1375                     
-Uruguay             ,3323    ,159       ,3482      
+Algeria, 31236, 11433, 42679, Arab states                              
+Bahrain, 1464, 174, 1638, Arab states 
+Egypt, 43229, 57939, 101169, Arab states                             
+Iraq, 28563, 11850, 40412, Arab states                          
+Jordan, 9184, 886, 10070, Arab states                                    
+Lebanon, 5384, 682, 6066 , Arab states                     
+Libya, 5282, 1288, 6570 , Arab states                     
+Morocco, 23078, 13557, 36635, Arab states                                 
+Oman, 4274, 728, 5002 , Arab states                     
+Qatar, 2722, 22, 2744 , Arab states                    
+Saudi Arabia, 28700, 5440, 34141 , Arab states                    
+Somalia, 7123, 8513, 15636   , Arab states                                             
+Syrian Arab Republic, 10141, 8358, 18499, Arab states                    
+Tunisia, 8160, 3623, 11783   , Arab states                  
+United Arab Emirates, 8403, 1279, 9682 ,Arab states                     
+Yemen, 11025, 18555, 29850, Arab states 
+Afghanistan         ,9583    ,27626    ,37209 ,  South Asia                     
+Bangladesh          ,62866   ,105200   ,168066 , South Asia 
+India               ,471828  ,896909   ,1368738 , South Asia                
+Islamic Rep. of Iran,62439   ,20381    ,82821 , South Asia 
+Nepal               ,6034    ,23908    ,29942  , South Asia                   
+Pakistan            ,75511   ,129086   ,204596  , South Asia                   
+Sri Lanka           ,3906    ,17112    ,21019 , South Asia                    
+Angola              ,21036   ,10752    ,31788 ,Sub-Saharan Africa                     
+Benin               ,5646    ,6153     ,11802  , Sub-Saharan Africa                    
+Botswana            ,1666    ,708       ,2375  ,Sub-Saharan Africa                    
+Burkina Faso        ,6092    ,14229    ,20322  , Sub-Saharan Africa                   
+Burundi             ,1547    ,10029    ,11576   ,Sub-Saharan Africa                   
+Cameroon            ,14420   ,10893   ,25313  , Sub-Saharan Africa                   
+Central African Rep.,2016    ,2180     ,4826  , Sub-Saharan Africa                    
+Chad                ,3681    ,12133    ,15814  , Sub-Saharan Africa                   
+Congo               ,3734    ,1808     ,5542 ,Sub-Saharan Africa                     
+Cote d'Ivoire       ,13082   ,12449    ,25531   ,Sub-Saharan Africa                  
+Ethiopia            ,23376   ,86759    ,110136 ,Sub-Saharan Africa                  
+Gabon               ,1893    ,216       ,2109  ,Sub-Saharan Africa                    
+Gambia              ,1380    ,848       ,2228   ,Sub-Saharan Africa                   
+Ghana               ,17067   ,13030    ,30097 ,Sub-Saharan Africa                    
+Guinea              ,4890    ,8508     ,13398 ,Sub-Saharan Africa                     
+Kenya               ,14363   ,37852    ,52215 ,Sub-Saharan Africa                    
+Liberia             ,2569    ,2408     ,4978  ,Sub-Saharan Africa                    
+Madagascar          ,10211   ,16759    ,26970 ,Sub-Saharan Africa                    
+Malawi              ,3387    ,16332    ,19719,Sub-Saharan Africa 
+Mauritania          ,2541    ,2121     ,4661   ,Sub-Saharan Africa                   
+Mozambique          ,11473   ,19936    ,31409  ,Sub-Saharan Africa                   
+Namibia             ,1349    ,1293     ,2642    ,Sub-Saharan Africa                  
+Niger               ,3828    ,19349    ,23177   ,Sub-Saharan Africa                  
+Nigeria             ,102806 ,98156    ,200962 ,Sub-Saharan Africa                   
+Rwanda              ,2215   ,10579    ,12794  ,Sub-Saharan Africa                   
+Senegal             ,7979    ,8765     ,16744,Sub-Saharan Africa                     
+South Africa        ,38820   ,19245    ,58065   ,Sub-Saharan Africa                  
+South Sudan         ,2639    ,10624    ,13263   ,Sub-Saharan Africa                  
+United Rep. of Tanz.,21015  , 39898    ,60914     ,Sub-Saharan Africa                
+Togo                ,3459   ,4728     ,8186    ,Sub-Saharan Africa                  
+Uganda              ,11136   ,34576    ,45712   ,Sub-Saharan Africa                  
+Zambia              ,7993    ,10144     ,18137,Sub-Saharan Africa                      
+Zimbabwe            ,5572    ,11726    ,17297 ,Sub-Saharan Africa 
+Cambodia,3924,12559 ,16483  ,East Asia and Pacific
+China  ,856409  ,563653   ,1420062 ,East Asia and Pacific                                      
+Indonesia           ,150900  ,118636   ,269536  ,East Asia and Pacific                                       
+Lao People Dem. Rep.,2518    ,4546     ,7064  ,East Asia and Pacific                   
+Malaysia            ,24862   ,7592     ,32454 ,East Asia and Pacific                                        
+Mongolia            ,2170    ,996       ,3166  ,East Asia and Pacific                
+Myanmar             ,16764   ,37573    ,54336 ,East Asia and Pacific                                            
+Papua New Guinea    ,1138    ,7449     ,8587  ,East Asia and Pacific                   
+Philippines         ,50971   ,57135    ,108106 ,East Asia and Pacific                                                                                         
+Thailand            ,35133   ,34173    ,69306  ,East Asia and Pacific                  
+Timor-Leste         ,419      ,934       ,1352  ,East Asia and Pacific                                        
+Vietnam             ,35687   ,61742    ,97429 ,East Asia and Pacific
+Albania             ,1799    ,1139     ,2938  ,Europe and Central Asia                      
+Armenia             ,1857    ,1080     ,2937    ,Europe and Central Asia                     
+Azerbaijan          ,5611    ,4403     ,10015 ,Europe and Central Asia                      
+Belarus             ,7457    ,1977     ,9434   ,Europe and Central Asia                     
+Bosnia and Herze.   ,1703    ,1799     ,3502  ,Europe and Central Asia                      
+Gerogia             ,2305    ,1599     ,3904   ,Europe and Central Asia                     
+Kazakhstan          ,10698   ,7895     ,18593  ,Europe and Central Asia                     
+Kyrgyzstan          ,2275    ,3943     ,6219  ,Europe and Central Asia                     
+Rep. of Moldova     ,1722    ,2308     ,4030  ,Europe and Central Asia                                           
+Serbia              ,4913    ,3820     ,8733 ,Europe and Central Asia                      
+Tajikistan          ,2538    ,6754     ,9292  ,Europe and Central Asia                      
+Turkey              ,62744   ,20218    ,82962 ,Europe and Central Asia                      
+Turkmenistan        ,3093    ,2850     ,5943 ,Europe and Central Asia                       
+Ukraine             ,30426   ,13369    ,43795 ,Europe and Central Asia                      
+Uzbekistan          ,16546   ,16261    ,32807  ,Europe and Central Asia                        
+Argentina           ,41490   ,3612     ,45102 , Latin America and Caribbean                                                                                                       
+Brazil              ,184408  ,27985    ,212393  , Latin America and Caribbean                                                                              
+Chile               ,16071   ,2266     ,18337    , Latin America and Caribbean                                                                              
+Colombia            ,40430   ,9420     ,49850  , Latin America and Caribbean                                                                                
+Costa Rica          ,4003    ,996       ,4999   , Latin America and Caribbean                                                                                
+Cuba                ,8861    ,2631     ,11492  , Latin America and Caribbean                                                                                                       
+Dominican Republic  ,8998    ,1998     ,10997   , Latin America and Caribbean                                                                               
+Ecuador             ,10942   ,6159     ,17100  , Latin America and Caribbean                                                                                
+El Salvador         ,4689    ,1757     ,6445  , Latin America and Caribbean                                                                                 
+Guatemala           ,9042    ,8536     ,17578 , Latin America and Caribbean                                                                                                      
+Haiti               ,6318    ,4925     ,11243   , Latin America and Caribbean                                                                               
+Honduras            ,5524    ,4045     ,9569   , Latin America and Caribbean                                                                                
+Jamaica             ,1627    ,1279     ,2906    , Latin America and Caribbean                                                                              
+Mexico              ,106450  ,25878    ,132328  , Latin America and Caribbean                                                                               
+Nicaragua           ,3732    ,2619     ,6351    , Latin America and Caribbean                                                                               
+Panama              ,2876    ,1350     ,4226   , Latin America and Caribbean                                                                               
+Paraguay            ,4320    ,2662     ,6982  , Latin America and Caribbean                                                                                
+Peru                ,25721   ,7213     ,32934   , Latin America and Caribbean                                                                               
+Trinodad and Tobago ,732      ,644       ,1375 , Latin America and Caribbean                                                                                  
+Uruguay             ,3323    ,159       ,3482  , Latin America and Caribbean                                                                  
