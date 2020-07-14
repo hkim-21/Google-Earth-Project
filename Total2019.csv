@@ -1,10 +1,9 @@
-countryname, urbanpop, ruralpop, totalpop
+countryname, urbanpop, ruralpop, totalpop, regionname
 Algeria, 31236, 11433, 42679                              
 Bahrain, 1464, 174, 1638                                          
 Egypt, 43229, 57939, 101169                            
 Iraq, 28563, 11850, 40412                         
-Jordan, 9184, 886, 10070                    
-Kuwait, 4249, 0, 4249                   
+Jordan, 9184, 886, 10070                                   
 Lebanon, 5384, 682, 6066                     
 Libya, 5282, 1288, 6570                     
 Morocco, 23078, 13557, 36635                                
@@ -17,11 +16,9 @@ Tunisia, 8160, 3623, 11783
 United Arab Emirates, 8403, 1279, 9682                     
 Yemen, 11025, 18555, 29850
 Afghanistan         ,9583    ,27626    ,37209                     
-Bangladesh          ,62866   ,105200   ,168066                   
-Bhutan              ,344      ,482       ,826                       
+Bangladesh          ,62866   ,105200   ,168066                                         
 India               ,471828  ,896909   ,1368738                
 Islamic Rep. of Iran,62439   ,20381    ,82821                    
-Maldives            ,182      ,270       ,452                       
 Nepal               ,6034    ,23908    ,29942                    
 Pakistan            ,75511   ,129086   ,204596                    
 Sri Lanka           ,3906    ,17112    ,21019                    
@@ -57,24 +54,18 @@ United Rep. of Tanz.,21015  , 39898    ,60914
 Togo                ,3459   ,4728     ,8186                     
 Uganda              ,11136   ,34576    ,45712                    
 Zambia              ,7993    ,10144     ,18137                     
-Zimbabwe            ,5572    ,11726    ,17297 
-Brunei Darussalam, 342,97,439                       
+Zimbabwe            ,5572    ,11726    ,17297                        
 Cambodia,3924,12559 ,16483                    
-China  ,856409  ,563653   ,1420062                 
-Fiji                ,521      ,397       ,919                       
-Indonesia           ,150900  ,118636   ,269536                   
-Kiribati            ,66       ,54        ,120                       
+China  ,856409  ,563653   ,1420062                                       
+Indonesia           ,150900  ,118636   ,269536                                         
 Lao People Dem. Rep.,2518    ,4546     ,7064                     
-Malaysia            ,24862   ,7592     ,32454                   
-Marshall Islands    ,41       ,12        ,53                        
+Malaysia            ,24862   ,7592     ,32454                                         
 Mongolia            ,2170    ,996       ,3166                     
 Myanmar             ,16764   ,37573    ,54336                                             
 Papua New Guinea    ,1138    ,7449     ,8587                     
-Philippines         ,50971   ,57135    ,108106                                             
-Singapore           ,5868    ,0         ,5868                                               
+Philippines         ,50971   ,57135    ,108106                                                                                          
 Thailand            ,35133   ,34173    ,69306                    
-Timor-Leste         ,419      ,934       ,1352                     
-Tonga               ,25       ,85        ,110                       
+Timor-Leste         ,419      ,934       ,1352                                          
 Vietnam             ,35687   ,61742    ,97429 
 Albania             ,1799    ,1139     ,2938                     
 Armenia             ,1857    ,1080     ,2937                      
@@ -84,30 +75,23 @@ Bosnia and Herze.   ,1703    ,1799     ,3502
 Gerogia             ,2305    ,1599     ,3904                     
 Kazakhstan          ,10698   ,7895     ,18593                    
 Kyrgyzstan          ,2275    ,3943     ,6219                    
-Rep. of Moldova     ,1722    ,2308     ,4030                     
-Montenegro          ,423      ,207       ,629                      
+Rep. of Moldova     ,1722    ,2308     ,4030                                          
 Serbia              ,4913    ,3820     ,8733                    
 Tajikistan          ,2538    ,6754     ,9292                     
 Turkey              ,62744   ,20218    ,82962                    
 Turkmenistan        ,3093    ,2850     ,5943                     
 Ukraine             ,30426   ,13369    ,43795                    
-Uzbekistan          ,16546   ,16261    ,32807 
-Antigua and Barbuda ,26       ,79        ,104                       
-Argentina           ,41490   ,3612     ,45102                    
-Bahamas             ,335      ,68        ,403                       
-Barbados            ,89       ,198       ,287                       
-Belize              ,179      ,211       ,390                       
+Uzbekistan          ,16546   ,16261    ,32807                       
+Argentina           ,41490   ,3612     ,45102                                          
 Brazil              ,184408  ,27985    ,212393                  
 Chile               ,16071   ,2266     ,18337                    
 Colombia            ,40430   ,9420     ,49850                    
 Costa Rica          ,4003    ,996       ,4999                     
-Cuba                ,8861    ,2631     ,11492                    
-Dominica            ,53       ,22        ,75                       
+Cuba                ,8861    ,2631     ,11492                                           
 Dominican Republic  ,8998    ,1998     ,10997                    
 Ecuador             ,10942   ,6159     ,17100                    
 El Salvador         ,4689    ,1757     ,6445                     
-Guatemala           ,9042    ,8536     ,17578                    
-Guyana              ,210      ,577       ,787                       
+Guatemala           ,9042    ,8536     ,17578                                         
 Haiti               ,6318    ,4925     ,11243                    
 Honduras            ,5524    ,4045     ,9569                     
 Jamaica             ,1627    ,1279     ,2906                    
