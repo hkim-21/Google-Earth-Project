@@ -34,39 +34,39 @@ Congo, 2671, 1582,4254, Sub-Saharan Africa
 Cote d'Ivoire , 9352,10584,19936, Sub-Saharan Africa                    
 Ethiopia   , 14444, 70972,85416, Sub-Saharan Africa                     
 Gabon     , 1348,239,1587,  Sub-Saharan Africa                              
-Gambia   , 901, 739,  Sub-Saharan Africa                          
-Ghana   , 11959, 11944, Sub-Saharan Africa                            
-Guinea   , 3525, 7032, Sub-Saharan Africa                    
-Kenya    , 9328, 30909, Sub-Saharan Africa                             
-Liberia  , 1808, 2003, Sub-Saharan Africa                              
-Madagascar , 6438,14131,  Sub-Saharan Africa                   
-Malawi   , 2270, 12444,  Sub-Saharan Africa                    
-Mauritania, 1602, 1904, Sub-Saharan Africa                       
-Mozambique, 7370,16154,   Sub-Saharan Africa                           
-Namibia , 868, 1269,  Sub-Saharan Africa                  
-Niger   , 2566, 13248, Sub-Saharan Africa 
-Nigeria ,65757, 88645, Sub-Saharan Africa                         
-Rwanda  , 1689, 8288, Sub-Saharan Africa             
-Senegal ,5442,7109,  Sub-Saharan Africa                        
-South Africa , 31442, 19529, Sub-Saharan Africa                       
-South Sudan   , 1712, 7959, Sub-Saharan Africa                        
-United Rep. of Tanz., 12256, 32409, Sub-Saharan Africa                     
-Togo       , 2346, 3985, Sub-Saharan Africa                      
-Uganda, 6187,26585, Sub-Saharan Africa                           
-Zambia , 5229, 8227, Sub-Saharan Africa                  
-Zimbabwe ,4610, 9201, Sub-Saharan Africa                     
-Cambodia, 2808, 11282, East Asia and Pacific                 
-China  , 647370, 704699, East Asia and Pacific                                             
-Indonesia ,117597, 121744, East Asia and Pacific                                            
-Lao People Dem. Rep.,  1813, 4339, East Asia and Pacific             
-Malaysia , 19344, 8261, East Asia and Pacific                      
-Mongolia , 1777, 892,  East Asia and Pacific             
-Myanmar , 14291, 35510,  East Asia and Pacific                                                       
-Papua New Guinea ,906, 6042, East Asia and Pacific                     
-Philippines , 41841, 50380, East Asia and Pacific                                                                                                   
-Thailand , 4966, 38428, East Asia and Pacific                
-Timor-Leste , 299, 793, East Asia and Pacific                                                      
-Vietnam ,26061,61504, East Asia and Pacific 
+Gambia   , 901, 739, 1640, Sub-Saharan Africa                          
+Ghana   , 11959, 11944,23904, Sub-Saharan Africa                            
+Guinea   , 3525, 7032,10557, Sub-Saharan Africa                    
+Kenya    , 9328, 30909,40237, Sub-Saharan Africa                             
+Liberia  , 1808, 2003,3812, Sub-Saharan Africa                              
+Madagascar , 6438,14131,20569,  Sub-Saharan Africa                   
+Malawi   , 2270, 12444,14715,  Sub-Saharan Africa                    
+Mauritania, 1602, 1904, 3506,Sub-Saharan Africa                       
+Mozambique, 7370,16154, 23524,  Sub-Saharan Africa                           
+Namibia , 868, 1269, 2137, Sub-Saharan Africa                  
+Niger   , 2566, 13248,15814, Sub-Saharan Africa 
+Nigeria ,65757, 88645,154402, Sub-Saharan Africa                         
+Rwanda  , 1689, 8288, 9977,Sub-Saharan Africa             
+Senegal ,5442,7109, 12551, Sub-Saharan Africa                        
+South Africa , 31442, 19529, 50971,Sub-Saharan Africa                       
+South Sudan   , 1712, 7959, 9671,Sub-Saharan Africa                        
+United Rep. of Tanz., 12256, 32409, 44664,Sub-Saharan Africa                     
+Togo       , 2346, 3985, 6330, Sub-Saharan Africa                      
+Uganda, 6187,26585, 32772,Sub-Saharan Africa                           
+Zambia , 5229, 8227, 13456,Sub-Saharan Africa                  
+Zimbabwe ,4610, 9201, 13811,Sub-Saharan Africa                     
+Cambodia, 2808, 11282,14090, East Asia and Pacific                 
+China  , 647370, 704699, 1352068,East Asia and Pacific                                             
+Indonesia ,117597, 121744,239340, East Asia and Pacific                                            
+Lao People Dem. Rep.,  1813, 4339, 6152,East Asia and Pacific             
+Malaysia , 19344, 8261,27605, East Asia and Pacific                      
+Mongolia , 1777, 892, 2668, East Asia and Pacific             
+Myanmar , 14291, 35510,49081,  East Asia and Pacific                                                       
+Papua New Guinea ,906, 6042,6947, East Asia and Pacific                     
+Philippines , 41841, 50380,92221, East Asia and Pacific                                                                                                   
+Thailand , 4966, 38428, 66882,East Asia and Pacific                
+Timor-Leste , 299, 793,1092, East Asia and Pacific                                                      
+Vietnam ,26061,61504,87565, East Asia and Pacific 
 Albania, 1513,  1449, 2963,  Europe and Central Asia                 
 Armenia, 1835,   1053, 2889,  Europe and Central Asia                 
 Azerbaijan, 4747,  4178, 8924, Europe and Central Asia                    
