@@ -1,0 +1,105 @@
+countryname, urbanpop, ruralpop, totalpop, regionname 
+Algeria, 23700,11765, 35466, Arab states                            
+Bahrain, 1050,135,1185, Arab states
+Egypt, 35492,46973,82465, Arab states                        
+Iraq, 20621, 9273, 29895, Arab states                 
+Jordan,  5793, 1028, 6821,Arab states            
+Lebanon, 3647,536,4183, Arab states                  
+Libya, 4764,1357,6121, Arab states             
+Morocco, 18379 , 13611,31990, Arab states                             
+Oman,   2151,732, 2883, Arab states             
+Qatar,  1564, 26, 1591,Arab states              
+Saudi Arabia,  21827,4834, 26661, Arab states              
+Somalia,  4407, 7301,11708, Arab states                                               
+Syrian Arab Republic, 11503, 9332,20825, Arab states               
+Tunisia, 6984, 3538,10522, Arab states
+United Arab Emirates, 6420, 1246,7666,  Arab states             
+Yemen, 7167, 15808, 22975, Arab states
+Afghanistan, 6589,21416,28004, South Asia                         
+Bangladesh , 44699, 105756,150455, South Asia                                      
+India  , 371406, 842864,1214270, South Asia                         
+Islamic Rep. of Iran, 51615,22073, 73688,South Asia                                        
+Nepal, 4395,22347,26741, South Asia                        
+Pakistan, 58122, 108928,167050, South Asia                  
+Sri Lanka, 3662,16413,20075, South Asia 
+Angola , 13312,9238, 22550,Sub-Saharan Africa                                 
+Benin , 3809, 5136, 8945,Sub-Saharan Africa                               
+Botswana, 1206,773, 1980,Sub-Saharan Africa                              
+Burkina Faso , 3646,11495,15141, Sub-Saharan Africa     
+Burundi, 881, 7608,8489, Sub-Saharan Africa                            
+Cameroon , 9902, 9531, 19433, Sub-Saharan Africa                          
+Central African Rep.,1704,2700, 4404, Sub-Saharan Africa                 
+Chad  ,2523,8980,11503, Sub-Saharan Africa             
+Congo, 2671, 1582,4254, Sub-Saharan Africa                      
+Cote d'Ivoire , 9352,10584,19936, Sub-Saharan Africa                    
+Ethiopia   , 14444, 70972,85416, Sub-Saharan Africa                     
+Gabon     , 1348,239,  Sub-Saharan Africa                              
+Gambia   , 901, 739,  Sub-Saharan Africa                          
+Ghana   , 11959, 11944, Sub-Saharan Africa                            
+Guinea   , 3525, 7032, Sub-Saharan Africa                    
+Kenya    , 9328, 30909, Sub-Saharan Africa                             
+Liberia  , 1808, 2003, Sub-Saharan Africa                              
+Madagascar , 6438,14131,  Sub-Saharan Africa                   
+Malawi   , 2270, 12444,  Sub-Saharan Africa                    
+Mauritania, 1602, 1904, Sub-Saharan Africa                       
+Mozambique, 7370,16154,   Sub-Saharan Africa                           
+Namibia , 868, 1269,  Sub-Saharan Africa                  
+Niger   , 2566, 13248, Sub-Saharan Africa 
+Nigeria ,65757, 88645, Sub-Saharan Africa                         
+Rwanda  , 1689, 8288, Sub-Saharan Africa             
+Senegal ,5442,7109,  Sub-Saharan Africa                        
+South Africa , 31442, 19529, Sub-Saharan Africa                       
+South Sudan   , 1712, 7959, Sub-Saharan Africa                        
+United Rep. of Tanz., 12256, 32409, Sub-Saharan Africa                     
+Togo       , 2346, 3985, Sub-Saharan Africa                      
+Uganda, 6187,26585, Sub-Saharan Africa                           
+Zambia , 5229, 8227, Sub-Saharan Africa                  
+Zimbabwe ,4610, 9201, Sub-Saharan Africa                     
+Cambodia, 2808, 11282, East Asia and Pacific                 
+China  , 647370, 704699, East Asia and Pacific                                             
+Indonesia ,117597, 121744, East Asia and Pacific                                            
+Lao People Dem. Rep.,  1813, 4339, East Asia and Pacific             
+Malaysia , 19344, 8261, East Asia and Pacific                      
+Mongolia , 1777, 892,  East Asia and Pacific             
+Myanmar , 14291, 35510,  East Asia and Pacific                                                       
+Papua New Guinea ,906, 6042, East Asia and Pacific                     
+Philippines , 41841, 50380, East Asia and Pacific                                                                                                   
+Thailand , 4966, 38428, East Asia and Pacific                
+Timor-Leste , 299, 793, East Asia and Pacific                                                      
+Vietnam ,26061,61504, East Asia and Pacific 
+Albania, 1513,  1449, 2963,  Europe and Central Asia                 
+Armenia, 1835,   1053, 2889,  Europe and Central Asia                 
+Azerbaijan, 4747,  4178, 8924, Europe and Central Asia                    
+Belarus, 7036,  2450,9486,  Europe and Central Asia                   
+Bosnia and Herze., 1695,2052, 3747,  Europe and Central Asia 
+Gerogia , 2365, 1923,   4288,  Europe and Central Asia             
+Kazakhstan , 9185, 6999,  16184,  Europe and Central Asia              
+Kyrgyzstan, 1884, 3456, 5341,  Europe and Central Asia                     
+Rep. of Moldova, 1747,2349, 4096,  Europe and Central Asia                                  
+Serbia, 4965,  4100, 9065,  Europe and Central Asia               
+Tajikistan,1982,   5491, 7473,  Europe and Central Asia                  
+Turkey, 50110, 21230, 71339,  Europe and Central Asia                   
+Turkmenistan, 2412, 2596, 5008,  Europe and Central Asia                    
+Ukraine, 31507, 14487, 45994,  Europe and Central Asia                   
+Uzbekistan, 14211, 13945,28155, Europe and Central Asia                   
+Argentina ,37001,  3798, 40799, Latin America and Caribbean                                                              
+Brazil, 163798,   31098, 194896, Latin America and Caribbean            
+Chile , 14644, 2185, 16829, Latin America and Caribbean                  
+Colombia, 35237, 10179, 45416, Latin America and Caribbean                 
+Costa Rica, 3168,   1321,4488, Latin America and Caribbean             
+Cuba , 8659,  2659, 11319, Latin America and Caribbean                                      
+Dominican Republic, 7086, 2682,9768, Latin America and Caribbean                  
+Ecuador , 9181,  5510, 14691, Latin America and Caribbean               
+El Salvador, 3963, 2174,6137, Latin America and Caribbean 
+Guatemala, 6887, 7429,14316, Latin America and Caribbean 
+Haiti ,4584,   5269, 9853, Latin America and Caribbean                  
+Honduras, 4116,  3919, 8035, Latin America and Caribbean                 
+Jamaica ,1502, 1302,2804, Latin America and Caribbean                   
+Mexico , 89539,   25966, 115505, Latin America and Caribbean             
+Nicaragua, 3214, 2452,5667, Latin America and Caribbean                   
+Panama , 2321, 1258, 3579, Latin America and Caribbean                 
+Paraguay, 3612,  2516,6128, Latin America and Caribbean                  
+Peru, 22111, 6890, 29002, Latin America and Caribbean                 
+Trinodad and Tobago ,716, 605, 1322,Latin America and Caribbean                 
+Uruguay, 3168,  195,3363, Latin America and Caribbean
+
